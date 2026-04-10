@@ -1,0 +1,46 @@
+{
+    "id": "ddec0a5c96634ad6a2daa8db3f08e981",
+    "name": "Mi cuaderno",
+    "subject": "General",
+    "pages": [
+        {
+            "id": "530ad3f5b9e74923992a07e1999fdbe7",
+            "width": 900,
+            "height": 1200,
+            "background_type": "blank",
+            "page_number": 1,
+            "title": "Página 1",
+            "margin_top": 80,
+            "margin_left": 70,
+            "margin_right": 70,
+            "margin_bottom": 80,
+            "elements": []
+        },
+        {
+            "id": "ec7af4e6440c4493acea59a2bf0ec2a4",
+            "width": 900,
+            "height": 1200,
+            "background_type": "blank",
+            "page_number": 2,
+            "title": "Página 2",
+            "margin_top": 80,
+            "margin_left": 70,
+            "margin_right": 70,
+            "margin_bottom": 80,
+            "elements": []
+        },
+        {
+            "id": "721017b01b0a42749b603cf12f852494",
+            "width": 900,
+            "height": 1200,
+            "background_type": "blank",
+            "page_number": 3,
+            "title": "Página 3",
+            "margin_top": 80,
+            "margin_left": 70,
+            "margin_right": 70,
+            "margin_bottom": 80,
+            "elements": []
+        }
+    ]
+}

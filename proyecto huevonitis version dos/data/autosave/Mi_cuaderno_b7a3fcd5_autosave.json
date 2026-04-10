@@ -1,0 +1,19 @@
+{
+    "id": "b7a3fcd5fc7b4b28acac53d97fd37625",
+    "name": "Mi cuaderno",
+    "subject": "General",
+    "pages": [
+        {
+            "id": "aec6151905b04ca5b600fdaecc32e999",
+            "width": 900,
+            "height": 1200,
+            "background_type": "blank",
+            "page_number": 1,
+            "margin_top": 80,
+            "margin_left": 70,
+            "margin_right": 70,
+            "margin_bottom": 80,
+            "elements": []
+        }
+    ]
+}

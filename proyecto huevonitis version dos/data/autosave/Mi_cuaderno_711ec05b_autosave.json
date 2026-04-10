@@ -1,0 +1,63 @@
+{
+    "id": "711ec05b7545421eb82325bc6e1a3cc8",
+    "name": "Mi cuaderno",
+    "subject": "General",
+    "pages": [
+        {
+            "id": "8863973972434af485e9b39fb33a29df",
+            "width": 900,
+            "height": 1200,
+            "background_type": "blank",
+            "page_number": 1,
+            "title": "Página 1",
+            "margin_top": 80,
+            "margin_left": 70,
+            "margin_right": 70,
+            "margin_bottom": 80,
+            "elements": [
+                {
+                    "id": "18d725fd16134d9883e9a4681f273bb4",
+                    "type": "text",
+                    "x": 100,
+                    "y": 120,
+                    "width": 600,
+                    "height": 80,
+                    "rotation": 0.0,
+                    "visible": true,
+                    "locked": false,
+                    "z_index": 0,
+                    "text": "hola mundo ",
+                    "font_size": 24,
+                    "color": "#111111"
+                }
+            ]
+        },
+        {
+            "id": "4f8a638928ed45dcb278a2122204bc99",
+            "width": 900,
+            "height": 1200,
+            "background_type": "blank",
+            "page_number": 2,
+            "title": "Página 2",
+            "margin_top": 80,
+            "margin_left": 70,
+            "margin_right": 70,
+            "margin_bottom": 80,
+            "elements": [
+                {
+                    "id": "1cbf93a5c22243aba1eefc10bd35eabd",
+                    "type": "image",
+                    "x": 124.0,
+                    "y": 164,
+                    "width": 500,
+                    "height": 375,
+                    "rotation": 0.0,
+                    "visible": true,
+                    "locked": false,
+                    "z_index": 0,
+                    "image_path": "D:/EmiGutGra/Documents/20190626_173054.jpg"
+                }
+            ]
+        }
+    ]
+}
